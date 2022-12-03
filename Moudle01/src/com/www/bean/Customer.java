@@ -13,6 +13,8 @@ public class Customer {
 
         ArrayList list = new ArrayList<>();
 
+
+
         System.out.println(list);
 
         Date date = new Date();
